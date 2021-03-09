@@ -5,7 +5,10 @@ All hiking trails can be found on their <a href="https://www.kst.sk/index.php/zn
 ## System of marked hiking trails
 In this repository you can find 4 most important hiking trails marks:
 
- :large_blue_circle: Blue  :green_circle: Green  :yellow_circle: Yellow  :red_circle: Red
+ :large_blue_circle: Blue  
+ :green_circle: Green  
+ :yellow_circle: Yellow  
+ :red_circle: Red
 
 
 
