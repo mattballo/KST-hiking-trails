@@ -1,4 +1,4 @@
-# :mount_fuji: Hiking trails in Slovakia 
+# :mount_fuji: Hiking trails in Slovakia :mount_fuji:
 Members of Slovak tourists club marked slovak hiking trails. 
 All hiking trails can be found on their <a href="https://www.kst.sk/index.php/znacenie-organizacia-132/znackovane-trasy">webpage</a> or in this repository.
 
